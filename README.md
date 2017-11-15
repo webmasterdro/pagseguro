@@ -5,10 +5,10 @@ Só fiz o commit porque a biblioteca verdadeira parece abandonada e ainda não a
 
 **Pull Request que não foram commitados"**
 - Checkout de serviço (o comprador não precisa informar um endereço de entrega)
-- Erro na Notificação (verificar se tem um telefone antes de setar o objeto) 
+- Erro na Notificação (verificar se tem um telefone antes de setar o objeto)
 
 De resto, você pode conferir tudo sobre a SDK [clicando aqui]
 
- [clicando aqui]: https://github.com/pagseguro/pagseguro-php-sdk.
- 
- 
+ [clicando aqui]: https://github.com/pagseguro/pagseguro-php-sdk
+
+
